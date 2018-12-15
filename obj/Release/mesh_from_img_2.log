@@ -1,0 +1,12 @@
+﻿  main.cpp
+  ofApp.cpp
+     Creazione della libreria bin\mesh_from_img_2.lib e dell'oggetto bin\mesh_from_img_2.exp
+  LINK : è stata specificata l'opzione /LTCG ma non è richiesta la generazione del codice; rimuovere /LTCG dalla riga di comando del collegamento per migliorare le prestazioni del linker
+  mesh_from_img_2.vcxproj -> D:\07_OF\of_v0.10.0_vs2017_release\apps\myApps\OF--mesh_from_img\bin\mesh_from_img_2.exe
+  
+  	                   2	D:\07_OF\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *File supplementare		 5647872	D:\07_OF\of_v0.10.0_vs2017_release\apps\myApps\OF--mesh_from_img\bin\FreeImage.dll
+  
+  	                   1	D:\07_OF\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *File supplementare		 1266176	D:\07_OF\of_v0.10.0_vs2017_release\apps\myApps\OF--mesh_from_img\bin\fmodex.dll
+  	  *File supplementare		 1312768	D:\07_OF\of_v0.10.0_vs2017_release\apps\myApps\OF--mesh_from_img\bin\fmodexL.dll

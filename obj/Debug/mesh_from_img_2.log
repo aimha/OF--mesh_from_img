@@ -1,0 +1,11 @@
+﻿  main.cpp
+  ofApp.cpp
+     Creazione della libreria bin\mesh_from_img_2_debug.lib e dell'oggetto bin\mesh_from_img_2_debug.exp
+  mesh_from_img_2.vcxproj -> D:\07_OF\of_v0.10.0_vs2017_release\apps\myApps\mesh_from_img_2\bin\mesh_from_img_2_debug.exe
+  
+  	                   2	D:\07_OF\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *File supplementare		 5647872	D:\07_OF\of_v0.10.0_vs2017_release\apps\myApps\mesh_from_img_2\bin\FreeImage.dll
+  
+  	                   1	D:\07_OF\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *File supplementare		 1266176	D:\07_OF\of_v0.10.0_vs2017_release\apps\myApps\mesh_from_img_2\bin\fmodex.dll
+  	  *File supplementare		 1312768	D:\07_OF\of_v0.10.0_vs2017_release\apps\myApps\mesh_from_img_2\bin\fmodexL.dll
